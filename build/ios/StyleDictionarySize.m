@@ -4,15 +4,28 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 May 2024 20:48:48 GMT
+// Generated on Tue, 04 Jun 2024 11:45:29 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const TypographyBodyH3FontWeight = 700;
-float const TypographyBodyH4StrikeThroughFontWeight = 500;
-float const TypographyBodyItalicFontWeight = 400;
-float const TypographyBodyExtraBoldCondensedItalicFontWeight = 800;
-float const TypographyBodyMediumExtendedItalicFontWeight = 500;
-float const TypographyBodySuperFontWeight = 900;
+float const TypographyTextXsBoldFontWeight = 700;
+float const TypographyTextXsRegularFontWeight = 400;
+float const TypographyTextSmRegularFontWeight = 400;
+float const TypographyTextSmBoldFontWeight = 700;
+float const TypographyTextBaseRegularFontWeight = 400;
+float const TypographyTextBaseBoldFontWeight = 700;
+float const TypographyTextLRegularFontWeight = 400;
+float const TypographyTextLBoldFontWeight = 700;
+float const TypographyTextLBandeinsBoldFontWeight = 700;
+float const TypographyTextXlRegularFontWeight = 400;
+float const TypographyTextXlBoldFontWeight = 700;
+float const TypographyTextXlBandeinsBoldFontWeight = 700;
+float const TypographyTextXxlRegularFontWeight = 400;
+float const TypographyTextXxlBoldFontWeight = 700;
+float const TypographyTextXxlBandeinsExtendedFontWeight = 700;
+float const TypographyTextXxlBandeinsBoldFontWeight = 700;
+float const TypographyButtonBoldFontWeight = 700;
+float const TypographyButtonUnderlinedFontWeight = 700;
+float const TypographyLinkRegularFontWeight = 400;
