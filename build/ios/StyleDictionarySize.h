@@ -3,15 +3,28 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 May 2024 20:48:48 GMT
+// Generated on Tue, 04 Jun 2024 11:45:29 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const TypographyBodyH3FontWeight;
-extern float const TypographyBodyH4StrikeThroughFontWeight;
-extern float const TypographyBodyItalicFontWeight;
-extern float const TypographyBodyExtraBoldCondensedItalicFontWeight;
-extern float const TypographyBodyMediumExtendedItalicFontWeight;
-extern float const TypographyBodySuperFontWeight;
+extern float const TypographyTextXsBoldFontWeight;
+extern float const TypographyTextXsRegularFontWeight;
+extern float const TypographyTextSmRegularFontWeight;
+extern float const TypographyTextSmBoldFontWeight;
+extern float const TypographyTextBaseRegularFontWeight;
+extern float const TypographyTextBaseBoldFontWeight;
+extern float const TypographyTextLRegularFontWeight;
+extern float const TypographyTextLBoldFontWeight;
+extern float const TypographyTextLBandeinsBoldFontWeight;
+extern float const TypographyTextXlRegularFontWeight;
+extern float const TypographyTextXlBoldFontWeight;
+extern float const TypographyTextXlBandeinsBoldFontWeight;
+extern float const TypographyTextXxlRegularFontWeight;
+extern float const TypographyTextXxlBoldFontWeight;
+extern float const TypographyTextXxlBandeinsExtendedFontWeight;
+extern float const TypographyTextXxlBandeinsBoldFontWeight;
+extern float const TypographyButtonBoldFontWeight;
+extern float const TypographyButtonUnderlinedFontWeight;
+extern float const TypographyLinkRegularFontWeight;
